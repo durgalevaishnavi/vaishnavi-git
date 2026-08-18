@@ -2,7 +2,8 @@ hiiii
 i am vaishnavi from cse-A.
 today , i am learning about git and github.
 from cloud and devops lab.
-after pushing the text from git to aws account in ec2 through connection
+after pushing the text from git to aws account in ec2 through connection.
+24R21A0521 
 
 
 
